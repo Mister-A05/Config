@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rimworld_Animations.AnimationSettings">
+		<RJWAnimations-orgasmQuiver>True</RJWAnimations-orgasmQuiver>
+		<RJWAnimations-rapeShiver>True</RJWAnimations-rapeShiver>
+		<RJWAnimation-sheartsOnLovin>True</RJWAnimation-sheartsOnLovin>
+		<RJWAnims-PlayAnimForNonsexualActs>True</RJWAnims-PlayAnimForNonsexualActs>
+		<RJWAnimations-applySemenOnOrgasm>True</RJWAnimations-applySemenOnOrgasm>
+		<RJWAnimations-shiverIntensity>2</RJWAnimations-shiverIntensity>
+		<RJWAnimations-animationOffsets>
+			<keys />
+			<values />
+		</RJWAnimations-animationOffsets>
+		<RJWAnimations-rotationOffsets>
+			<keys />
+			<values />
+		</RJWAnimations-rotationOffsets>
+	</ModSettings>
+</SettingsBlock>

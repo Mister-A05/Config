@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="rjw.RJWDebugSettings">
+		<submit_button_enabled>True</submit_button_enabled>
+		<show_RJW_designation_box>False</show_RJW_designation_box>
+		<ShowRjwParts>Show</ShowRjwParts>
+		<maxDistanceCellsCasual>100</maxDistanceCellsCasual>
+		<maxDistanceCellsRape>100</maxDistanceCellsRape>
+		<maxDistancePathCost>1000</maxDistancePathCost>
+		<AddTrait_Rapist>True</AddTrait_Rapist>
+		<AddTrait_Masocist>True</AddTrait_Masocist>
+		<AddTrait_Nymphomaniac>True</AddTrait_Nymphomaniac>
+		<AddTrait_Necrophiliac>True</AddTrait_Necrophiliac>
+		<AddTrait_Nerves>True</AddTrait_Nerves>
+		<AddTrait_Zoophiliac>True</AddTrait_Zoophiliac>
+		<AddTrait_FootSlut>True</AddTrait_FootSlut>
+		<AddTrait_CumSlut>True</AddTrait_CumSlut>
+		<AddTrait_ButtSlut>True</AddTrait_ButtSlut>
+		<Allow_RMB_DeepTalk>True</Allow_RMB_DeepTalk>
+		<Allow_RMB_DeepTalk>True</Allow_RMB_DeepTalk>
+		<Disable_bestiality_pregnancy_relations>False</Disable_bestiality_pregnancy_relations>
+		<Disable_egg_pregnancy_relations>False</Disable_egg_pregnancy_relations>
+		<Disable_MeditationFocusDrain>False</Disable_MeditationFocusDrain>
+		<Disable_RecreationDrain>False</Disable_RecreationDrain>
+		<GenderlessAsFuta>False</GenderlessAsFuta>
+		<override_lovin>True</override_lovin>
+		<override_matin>True</override_matin>
+		<matin_crossbreed>True</matin_crossbreed>
+		<Wildmode>False</Wildmode>
+		<Hippiemode>False</Hippiemode>
+		<override_RJW_designation_checks>True</override_RJW_designation_checks>
+		<override_control>True</override_control>
+		<DevMode>False</DevMode>
+		<DebugLogJoinInBed>False</DebugLogJoinInBed>
+		<DebugRape>False</DebugRape>
+		<DebugInteraction>False</DebugInteraction>
+		<DebugNymph>False</DebugNymph>
+	</ModSettings>
+</SettingsBlock>

@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Multiplayer.Client.MpSettings">
-		<username>MisterA</username>
+		<username>oso156</username>
+		<serverAddress>25.5.87.235</serverAddress>
+		<chatRect>(363.0, 154.0, 640.0, 460.0)</chatRect>
+		<resolutionForChat>(1366.0, 768.0)</resolutionForChat>
 		<playerColors>
 			<li>
 				<g>125</g>
@@ -33,6 +36,10 @@
 				<b>75</b>
 			</li>
 		</playerColors>
-		<serverSettings />
+		<serverSettings>
+			<maxPlayers>2</maxPlayers>
+			<autosaveInterval>1</autosaveInterval>
+			<direct>True</direct>
+		</serverSettings>
 	</ModSettings>
 </SettingsBlock>

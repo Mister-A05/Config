@@ -3,7 +3,7 @@
   <knowledge>
     <li>
       <key>WorldCameraMovement</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ReformCaravan</key>
@@ -11,11 +11,11 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShieldBelts</key>
@@ -23,11 +23,11 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
@@ -35,7 +35,7 @@
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
@@ -43,11 +43,11 @@
     </li>
     <li>
       <key>BillsTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>OpeningComms</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugAddiction</key>
@@ -55,7 +55,7 @@
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -63,11 +63,11 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugBurning</key>
@@ -79,7 +79,7 @@
     </li>
     <li>
       <key>QueueOrders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Shelves</key>
@@ -87,51 +87,51 @@
     </li>
     <li>
       <key>CameraDolly</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CameraZoom</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TimeControls</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Pause</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Stockpiles</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Forbidding</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GrowingFood</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EquippingWeapons</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Alerts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>WorkTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -143,7 +143,7 @@
     </li>
     <li>
       <key>AnimalTaming</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTraining</key>
@@ -151,15 +151,15 @@
     </li>
     <li>
       <key>InfoCard</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>StorageTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
@@ -171,23 +171,23 @@
     </li>
     <li>
       <key>HostilityResponse</key>
-      <value>0</value>
+      <value>0.7270671</value>
     </li>
     <li>
       <key>AllowedAreas</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MedicalOperations</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TimeAssignments</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ManualWorkPriorities</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GettingMoreTraders</key>
@@ -195,11 +195,11 @@
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Outfits</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FirePreparation</key>
@@ -211,7 +211,7 @@
     </li>
     <li>
       <key>ClickingMessages</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShotAccuracyTooltip</key>
@@ -223,15 +223,15 @@
     </li>
     <li>
       <key>TradeGoodsMustBeNearBeacon</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ArrestingCreatesEnemies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>
@@ -239,7 +239,7 @@
     </li>
     <li>
       <key>TradingRequiresPermit</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SteamDeckControlsMainMenu</key>
@@ -251,7 +251,7 @@
     </li>
     <li>
       <key>MeditationSchedule</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MeditationDesiredPsyfocus</key>
@@ -263,7 +263,7 @@
     </li>
     <li>
       <key>EditingPrecepts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>PollutedTerrain</key>
@@ -295,7 +295,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
@@ -303,7 +303,7 @@
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
-      <value>0</value>
+      <value>0.8</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>
@@ -311,15 +311,15 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedRanged</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedMelee</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsLosingWeapons</key>
@@ -331,6 +331,30 @@
     </li>
     <li>
       <key>QRY_ReclaimingSoil</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>PrisonLabor_Indroduction</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>PrisonLabor_Motivation</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>PrisonLabor_Growing</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>PrisonLabor_Management</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>PrisonLabor_Timetable</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>PrisonLabor_Treatment</key>
       <value>0</value>
     </li>
   </knowledge>

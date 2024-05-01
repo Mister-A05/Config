@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PrefsData>
   <volumeMaster>0.8</volumeMaster>
-  <volumeGame>1</volumeGame>
-  <volumeMusic>0.4</volumeMusic>
-  <volumeAmbient>1</volumeAmbient>
+  <volumeGame>0.7358722</volumeGame>
+  <volumeMusic>0</volumeMusic>
+  <volumeAmbient>0.502457</volumeAmbient>
   <volumeUI>1</volumeUI>
   <screenWidth>0</screenWidth>
   <screenHeight>0</screenHeight>
@@ -22,10 +22,10 @@
   <randomBackground>False</randomBackground>
   <showWeaponsUnderPortraitMode>WhileDrafted</showWeaponsUnderPortraitMode>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
-  <adaptiveTrainingEnabled>True</adaptiveTrainingEnabled>
+  <adaptiveTrainingEnabled>False</adaptiveTrainingEnabled>
   <steamDeckKeyboardMode>False</steamDeckKeyboardMode>
   <preferredNames />
-  <resourceReadoutCategorized>False</resourceReadoutCategorized>
+  <resourceReadoutCategorized>True</resourceReadoutCategorized>
   <runInBackground>False</runInBackground>
   <edgeScreenScroll>True</edgeScreenScroll>
   <temperatureMode>Celsius</temperatureMode>
